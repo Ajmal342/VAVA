@@ -4,11 +4,11 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/bdsg5j0.jpeg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="ZaraMwol" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
+<a href="#"><img title="VAVA" src="https://img.shields.io/badge/-VAVA-pink?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Raashii"><img title="Raashii" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ajmal342"><img title="VAVA" src="https://i.imgur.com/bdsg5j0.jpeg-Raashii?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
