@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/Ajmal342">A-J-M-A-L</a> to make i
 <p align="center">
 <a href="https://github.com/Ajmal342/VAVA/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal342?color=grey&style=plastic"></a>
 <a href="https://github.com/Ajmal342/VAVA/stargazers/"><img title="Stars" src="https://img.shields.io/github.com/Ajmal342/VAVA?color=grey&style=plastic"></a>
-<a href="https://github.com/Ajmal342/VAVA/network/members"><img title="Forks" src="https://img.shields.io/github.com/Ajmal342/VAVAl?color=grey&style=plastic"></a>
+<a href="https://github.com/Ajmal342/VAVA/network/members"><img title="Forks" src="https://img.shields.io/github.com/Ajmal342/VAVA?color=grey&style=plastic"></a>
 <a href="https://github.com/Ajmal342/VAVA/watchers"><img title="Watching" src="https://img.shields.io/github.com/Ajmal342/VAVA?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 
