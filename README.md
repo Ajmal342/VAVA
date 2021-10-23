@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/v7UkMet.jpeg" width="170" height="170"/>
+  <img border-radius: 15px src="https://i.imgur.com/bdsg5j0.jpeg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="ZaraMwol" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
 </p>
