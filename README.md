@@ -12,7 +12,7 @@
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
+Project created by <a href="https://github.com/Ajmal342">A-J-M-A-L</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Raashii">Raashii</a> to make it p
 ----
 
   <p align="center">
-  <a href="https://github.com/Jokerser-x-Raashii/Zaramwol ">
+  <a href="https://github.com/Ajmal342/VAVA ">
     <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
