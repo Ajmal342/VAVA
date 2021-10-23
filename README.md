@@ -25,15 +25,15 @@ Project created by <a href="https://github.com/Ajmal342">A-J-M-A-L</a> to make i
   <a href="https://github.com/Ajmal342/VAVA ">
     <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jokerser-x-Raashii/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Ajmal342/VAVA/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal342?color=grey&style=plastic"></a>
+<a href="https://github.com/Ajmal342/VAVA/stargazers/"><img title="Stars" src="https://img.shields.io/github.com/Ajmal342/VAVA?color=grey&style=plastic"></a>
+<a href="https://github.com/Ajmal342/VAVA/network/members"><img title="Forks" src="https://img.shields.io/github.com/Ajmal342/VAVAl?color=grey&style=plastic"></a>
+<a href="https://github.com/Ajmal342/VAVA/watchers"><img title="Watching" src="https://img.shields.io/github.com/Ajmal342/VAVA?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 
 ```
   
-Zara - Zara Userbot is Open Source software open to development. 
+VAVA - VAVA Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -70,8 +70,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
-$ cd Zaramwol
+$ git clone https://github.com/Ajmal342/VAVA
+$ cd vava
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -80,8 +80,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
-$ cd Zaramwol
+$ git clone https://github.com/Ajmal342/VAVA
+$ cd VAVA
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,9 +112,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Raashii](https://github.com/Ajmal342.png?size=100)](https://github.com/Ajmal342) |  [![Ajmal342](https://github.com/Ajmal342.png?size=100)](https://github.com/Ajmal342) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
+[Ajmal342](https://github.com/Ajmal342)  | [Ajmal342](https://github.com/Ajmal342) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
