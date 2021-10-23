@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/Ajmal342">A-J-M-A-L</a> to make i
     <br> 
 </p>
 
-----
+----## THANKS FOR CHOOSING VAVA💖
 
   <p align="center">
   <a href="https://github.com/Ajmal342/VAVA ">
@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/Ajmal342">A-J-M-A-L</a> to make i
 <p align="center">
 <a href="https://github.com/Ajmal342/VAVA/followers"><img title="Followers" src="https://img.shields.io/github/follower
 
-## VAVA 💗
+
 
 ```
   
