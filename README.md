@@ -56,7 +56,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ajmal342/VAVA)
      </div>
 <br>
 <br >
