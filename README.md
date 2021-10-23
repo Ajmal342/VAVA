@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <gif border-radius: 15px src="https://i.imgur.com/d8whn8m.mp4" width="170" height="170"/>
+  <img border-radius: 15px src="https://i.imgur.com/0cpQ1uI.jpeg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="VAVA" src="https://img.shields.io/badge/-VAVA-pink?&style=for-the-badge"></a>
 </p>
